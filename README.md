@@ -6,7 +6,7 @@ This project's goal is to help users cleanse their repositories of sensitive str
 
   
 
-### Note:
+### Note:🚨
 
 If you have a repository with credentials or other sensitive information, the first thing you should do is **change them**!
  
